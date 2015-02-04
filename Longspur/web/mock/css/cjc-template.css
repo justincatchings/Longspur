@@ -1,0 +1,52 @@
+html{
+	height: 100%;
+}
+
+body{
+	padding-top: 20px;
+	height: 100%;
+}
+
+.summary-left{
+	height: 100%;
+	background-color: #5CC8AF;
+}
+
+.summary-center{
+	height: 100%;
+}
+
+.summary-right{
+	height: 100%;
+	background-color: #5CC8AF;
+}
+
+.landing-container{
+	height: 100%;
+	width: 100%;
+}
+
+.landing-fs{
+	height: 100%;
+}
+
+.trips-header{
+	border-bottom: 2px solid;
+}
+
+.trips-headsides{
+	border-left: 2px solid;
+	border-right: 2px solid;
+	height: 20px;
+}
+
+.trip-detail{
+	border-bottom: 2px solid;
+	padding-top: 10px;
+}
+
+.trip-detail-row{
+	padding-left: 35px;
+	padding-right: 15px;
+}
+
